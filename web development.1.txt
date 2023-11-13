@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Event Planning Business</title>
+    <style>
+        /* Basic styling - replace this with your own CSS styles */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        nav {
+            background-color: #444;
+            text-align: center;
+            padding: 10px 0;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 8px 20px;
+        }
+        nav a:hover {
+            background-color: #555;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to BUTTERCUP Event Planners</h1>
+        <p>Creating Memorable Events.</p>
+         <p>  Our Buttercup Event Planner is responsible for coordinating all of the moving parts involved in ensuring events go smoothly, including choosing venues, catering services, and hiring performers</p>
+    </header>
+    
+    <nav>
+        <a href="#about">About</a>
+        <a href="#services">Services</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    
+    <section id="about">
+        <h2>About Us</h2>
+        <p>BUTTERCUP  Event Planners is a premier event planning company dedicated to making your event extraordinary.</p>
+        <p>WE MAKE IT
+POSSIBLE</p>
+<p>OUR VISION</p>
+<p>At variety communications, we strive to enhance event 
+experiences and break through geographical boundaries to connect people and ideas globally.</p>
+
+<p>OUR MISSION</p>
+<p>To deliver seamless event planning and execution with integrity, passion, and deep domain expertise to elevate your event experiences.</p>
+
+<p>OUR EXPERIENCE</p>
+<p>Trusted by clients who value excellence, reliability, and our experience in delivering flawless events. our reputation is built from a foundation of integrity, expertise and passion. with more than 40 years of experience in the industry, Variety continues to provide solutions for a wide range of audio-visual and communications needs by offering a full suite of event technology services.</p>
+    <img src="https://4.imimg.com/data4/AJ/LR/ANDROID-15068978/product-500x500.jpeg"/>
+    </section>
+    
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>Wedding Planning</li>
+            <li>Corporate Events</li>
+            <li>Birthday Parties</li>
+            <li>Theme Events</li>
+            <li>Surprise events</li>
+            <!-- Add more services as needed -->
+        </ul>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: info@Buttercup eventplanners.com</p>
+        <p>Phone: 630-123-9720</p>
+        <p>Address: 630 Gandhi street,Tirupati,india</p>
+    </section>
+</body>
+</html>
